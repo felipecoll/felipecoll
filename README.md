@@ -6,4 +6,7 @@
 :boy: ***Padre de Jeronimo***
 :sunrise_over_mountains: ***Trekinero***
 
-### Work in proccess...
+### Lenguajes de programacion
+
+### Bases de datos
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
