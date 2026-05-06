@@ -5,7 +5,7 @@ Apasionado por la arquitectura de software robusta, el frontend moderno y la aut
 
 ---
 
-### 目的 (Objetivo Profesional)
+### (Objetivo Profesional)
 Me especializo en transformar problemas complejos en soluciones digitales escalables, utilizando tecnologías de vanguardia para el desarrollo de aplicaciones y la automatización con n8n.
 
 ### 🛠 Stack Tecnológico
@@ -22,17 +22,15 @@ Me especializo en transformar problemas complejos en soluciones digitales escala
 
 **Tools & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
-
----
+<!-- ---
 
 ### 📊 Estadísticas de GitHub
 |  |  |
 | --- | --- |
 | ![Stats de Felipe](https://github-readme-stats.vercel.app/api?username=felipecoll&show_icons=true&theme=tokyonight&hide_border=true) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecoll&layout=compact&theme=tokyonight&hide_border=true) |
 
----
+--- -->
 
-### 📫 Conectemos
+<!-- ### 📫 Conectemos
 - 💼 [LinkedIn](TU_LINK_AQUI)
-- 🌐 [Portfolio Personal](TU_WEB_AQUI)
+- 🌐 [Portfolio Personal](TU_WEB_AQUI) -->
